@@ -1,0 +1,10 @@
+SurahNames = ['alfatihah', 'albaqarah', 'aleimran', 'annisa', 'almaidah', 'alanaam', 'alaraf', 'alanfal', 'attawba','yunus', 'hud', 
+'yusuf', 'alraad', 'ibrahim', 'alhijr', 'alnahl', 'alisra', 'alkahf', 'maryam', 'taha', 'alanbiya', 'alhajj', 'almuminoon', 'alnur', 
+'alfurqan', 'alshuara', 'alnaml', 'alqasas', 'alankabut', 'alrum', 'alluqman', 'alsajdah', 'alahzab', 'alsaba', 'alfatir', 'alyaseen', 
+'alsaaffat', 'alsaad', 'alzummar', 'alghafir', 'alfussilat', 'alshura', 'alzukhruf', 'aldukhan', 'aljathithiya', 'alahqaf', 'muhammed', 
+'alfath', 'alhujurat', 'alqaaf', 'aldhariyat', 'altur', 'alnajm', 'alqamar', 'alrahman', 'alwaqiah', 'alhadid', 'almujadilah', 'alhashr', 
+'almumtahina', 'alsaf', 'aljumuah', 'almunafiqun', 'altaghabun', 'altalaq', 'altahrim', 'almulk', 'alqalam', 'alhaqqah', 'almarij', 
+'alnuh', 'aljinn', 'almuzzammil', 'almudathir', 'alqiyamah', 'alinsan', 'almursalat', 'alnaba', 'alnaziat', 'abasa', 'altakwir', 
+'alinfitar', 'almutaffifin', 'alinshiqaq', 'alburuj', 'attariq', 'alala', 'alghashiyah', 'alfajr', 'albalad', 'alshams', 'allayl', 
+'alduha', 'alsharh', 'attin', 'alalaq', 'alqadr', 'albayyinah', 'alzalzalah', 'aladiyat', 'alqariah', 'altakathur', 'alasr', 'alhumazah', 
+'alfil', 'quraysh', 'almaun', 'alkawthar', 'alkafirun', 'alnasr', 'almasad', 'alikhlas', 'alfalaq', 'alnas']
